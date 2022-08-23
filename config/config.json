@@ -1,0 +1,23 @@
+{
+  "CONTRACT_ADDRESS": "0x1534b40aE96E6e19E17f5F4AF40DCd89Eccb8654",
+  "SCAN_LINK": "https://etherscan.io/address/0x1534b40aE96E6e19E17f5F4AF40DCd89Eccb8654",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Ghost Birds",
+  "SYMBOL": "GBs",
+  "MAX_SUPPLY": 5555,
+  "FREE_SUPPLY": 1111,
+  "DISPLAY_COST": 0.0009,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 10,
+  "MAX_PER_TX_FREE": 3,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ghost-birds",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://twitter.com/GhostbirdsNFT",
+  "SHOW_BACKGROUND": false
+}
